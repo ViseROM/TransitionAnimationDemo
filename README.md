@@ -8,7 +8,7 @@ Author: Vachia Thoj
 
 #### Description 
 - A Demo of transition animations
-- GUI built using the Swing AWT libraries in Java
+- GUI built using the Swing and AWT libraries in Java
 - Use mouse to click on buttons
 
 
