@@ -6,7 +6,10 @@ Version/Date: 1.0 - April 2022
 
 Author: Vachia Thoj
 
-Description: A Demo of how transition animations 
+#### Description 
+- A Demo of transition animations
+- GUI built using the Swing AWT libraries in Java
+- Use mouse to click on buttons
 
 
 
