@@ -52,7 +52,7 @@ public class HorizontalSplit extends Transition
 		
 		this.speed = 5;
 		this.timer = System.nanoTime();
-		this.delay = 100;
+		this.delay = 10;
 		
 		this.doneTimer = 0;
 		this.doneDelay = 400;
@@ -79,7 +79,7 @@ public class HorizontalSplit extends Transition
 					running = false;
 				}
 			}
-			else if(System.nanoTime() - timer / 1000000 > delay)
+			else if(((System.nanoTime() - timer) / 1000000) > delay)
 			{
 				currentHeight = currentHeight + speed;
 				

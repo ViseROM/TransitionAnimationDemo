@@ -27,6 +27,16 @@ public class TransitionManager
 		this.transitionType = null;
 	}
 	
+	public int getSpeed()
+	{
+		if(currentTransition != null)
+		{
+			return currentTransition.getSpeed();
+		}
+		
+		return 0;
+	}
+	
 	
 	public boolean isRunning()
 	{
@@ -106,7 +116,7 @@ public class TransitionManager
 	 */
 	public void startTransition()
 	{
-		if(currentTransition != null)
+		if(transitionType != null)
 		{
 			setTransition(transitionType);
 			currentTransition.setRunning(true);
