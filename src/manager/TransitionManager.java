@@ -1,16 +1,7 @@
 package manager;
 import java.awt.Graphics2D;
 
-import Transition.FadeToBlack;
-import Transition.FadeToWhite;
-import Transition.HorizontalSplit;
-import Transition.SlideDown;
-import Transition.SlideLeft;
-import Transition.SlideRight;
-import Transition.SlideUp;
-import Transition.Transition;
-import Transition.TransitionType;
-import Transition.VerticalSplit;
+import transition.*;
 
 /**
  * TransitionManager class manages and executes Transitions
