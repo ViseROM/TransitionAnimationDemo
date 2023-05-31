@@ -32,4 +32,4 @@ Author: Vachia Thoj
 
 —— Code that references a file path may need to be modified depending on how the coding environment you used manages folders/directories ——
 
-—— There is an executable JAR called "TransitionAnimationDemo.jar" that will run the "end product" of the code ——
+—— There is an executable JAR called "TransitionAnimationDemo.jar" that will run the "end product" of the code (Requires JDK 15.0.2 or newer) ——
