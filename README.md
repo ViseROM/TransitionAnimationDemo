@@ -14,3 +14,5 @@ Author: Vachia Thoj
 
 
 —— To Run Program Using an IDE —— Clone/download the project, then run the Main.java file to start program
+
+—— Code was originally written and executed using the Eclipse IDE ——
