@@ -4,7 +4,7 @@ import java.awt.Color;
 import java.awt.Font;
 import java.awt.image.BufferedImage;
 
-import Transition.TransitionType;
+import transition.TransitionType;
 import entity.Button;
 import helper.TextSize;
 import main.GamePanel;
