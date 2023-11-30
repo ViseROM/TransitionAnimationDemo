@@ -2,7 +2,7 @@
 
 Project Title: Transition Animation Demo
 
-Version/Date: 1.0 - April 2022
+Version: 1.0
 
 Author: Vachia Thoj
 
